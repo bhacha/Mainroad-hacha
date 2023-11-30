@@ -8,6 +8,9 @@
 - id: sidemenu_title
   translation: "Menu"
 
+- id: affiliationmenu_title
+  translation: "Affiliations"
+
 # Post meta
 - id: meta_lastmod
   translation: "Last Modified"

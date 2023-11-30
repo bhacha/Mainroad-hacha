@@ -650,6 +650,15 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	font-style: italic;
 }
 
+.post__doi {
+	margin-top: 4px;
+	margin-top: .25rem;
+	margin-bottom: 0;
+	font-size: 16px;
+	font-size: 1rem;
+	font-style: italic;
+}
+
 .post__thumbnail {
 	max-width: 1030px;
 	margin: 0 0 20px;
@@ -1327,4 +1336,10 @@ textarea {
 		font-size: 11px;
 		font-size: .6875rem;
 	}
+
+	.list__doi {
+		font-size: 14px;
+		font-size: .875rem;
+	}
+
 }
